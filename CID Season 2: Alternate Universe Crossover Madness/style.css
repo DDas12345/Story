@@ -1,0 +1,20 @@
+/* style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+class-link {
+    color: #28a745;
+    text-decoration: none;
+}
